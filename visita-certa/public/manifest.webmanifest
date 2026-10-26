@@ -1,9 +1,0 @@
-{
-  "name": "Visita Certa",
-  "short_name": "Visita Certa",
-  "start_url": "/",
-  "display": "standalone",
-  "background_color": "#f6f7f5",
-  "theme_color": "#147f4d",
-  "icons": [{ "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }]
-}
